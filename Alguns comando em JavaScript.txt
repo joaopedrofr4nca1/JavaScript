@@ -1,0 +1,28 @@
+HTML-------> Conteudo
+CSS-------> Estilo
+JavaScript-------> Interação com usuário
+<script>-------> Utilizar o JavaScript
+windows.alert-------> Mostrar alerta  na tela
+// ------> Comentário m uma linha
+/* 'exemplo' */ -------Comentar mais de uma linha
+ null_------> Nulo
+var/let------> Variavel
+para usar palaras na variavel utilizar 'str'
+Podem começar com letra,$ ou_ e nao se começa numero
+typeof
++ ----> Concatenar
+str '+' str = Concatenaçao
+number '+' number = soma
+string para number
+   * Number.Parselnt(n)        converter para inteiro
+   * Number.ParseFloat(n)      converter para real
+
+number para string
+   * String(n)
+   * n.toString()
+`Exemplo ${x}`--------> Usa template string
+.length ----> diz o tamanho
+.toUpperCase()-----> tudo maiúsculo
+.toLowerCase()-----> tudo minusculo
+
+
